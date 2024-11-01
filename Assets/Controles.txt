@@ -1,0 +1,5 @@
+Controles:
+
+Moverse a la izquierda: tecla flecha izquierda
+Moverse a la derecha: tecla flecha derecha
+Disparar: tecla espacio
